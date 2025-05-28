@@ -14,7 +14,8 @@
 ![image](https://github.com/user-attachments/assets/15d2c7c4-d331-4d69-8dfb-4a942cecf48d)
 
 数据库创建的信息  没写.sql文件
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e222069f-288e-4da9-b194-ca3f51ab95e5)
+
 
 
 ``使用方法``
