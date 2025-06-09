@@ -1,4 +1,10 @@
 此项目是活动预约系统使用springboot + vue3写的
+``使用方法``
+先运行后端再运行前端   
+后端
+直接使用idea导入demo文件夹中的pom.xml文件  jdk17以上
+前端使用cmd打开前端文件夹的根目录  然后执行npm instll安装npm
+执行npm run dev运行整个前端项目     node版本号为v20.14.0
 管理员界面
 ![image](https://github.com/user-attachments/assets/b9bacb2b-ad38-434c-af13-e5d22395c0a9)# Manage
 活动/服务管理界面
@@ -18,12 +24,7 @@
 
 
 
-``使用方法``
-先运行后端再运行前端   
-后端
-直接使用idea导入demo文件夹中的pom.xml文件  jdk17以上
-前端使用cmd打开前端文件夹的根目录  然后执行npm instll安装npm
-执行npm run dev运行整个前端项目     node版本号为v20.14.0
+
 
 
 
